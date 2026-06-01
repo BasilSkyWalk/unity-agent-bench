@@ -3,7 +3,7 @@ import { mkdtempSync, readFileSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 
-import { resolveUnityEditor } from "./unity.ts";
+import { resolveUnityEditor } from "../unity.ts";
 
 /**
  * Compile-check verifier (SPEC.md §6). Runs Unity batch-mode import on a project
