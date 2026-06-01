@@ -1,0 +1,19 @@
+# Unity-generated, machine-local — never vendored. Source of truth is
+# Assets/, ProjectSettings/, and Packages/manifest.json + packages-lock.json.
+/Library/
+/Temp/
+/Obj/
+/obj/
+/Logs/
+/UserSettings/
+/Build/
+/Builds/
+
+# Generated IDE project files
+*.csproj
+*.sln
+*.unityproj
+*.user
+
+# OS
+.DS_Store
