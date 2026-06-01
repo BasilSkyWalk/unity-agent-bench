@@ -1,0 +1,7 @@
+{
+  "pricing_date": "2026-06-01",
+  "currency": "USD",
+  "unit": "per_million_tokens",
+  "notes": "Dated price table. All cost_usd is recomputed from token counts via this file, never copied from a stack's self-reported dollar figure. Add one entry per pinned model snapshot (e.g. claude-sonnet-4-6-YYYYMMDD) with input/output/cache_read/cache_write rates.",
+  "models": {}
+}
